@@ -1,0 +1,38 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "username": "vitor santos",
+      "email": "vitor@gmail.com",
+      "senha": "123"
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "São Paulo",
+      "descricao": "2",
+      "status": "todo",
+      "prioridade": "baixa",
+      "motorista": "Não atribuído",
+      "usuario_id": 1,
+      "criada_em": "15/07/2026 21:29"
+    },
+    {
+      "id": 2,
+      "titulo": "Campinas",
+      "descricao": "2",
+      "status": "todo",
+      "prioridade": "alta",
+      "motorista": "Não atribuído",
+      "usuario_id": 1,
+      "criada_em": "15/07/2026 21:29"
+    }
+  ],
+  "usuario_logado": {
+    "id": 1,
+    "username": "vitor santos",
+    "email": "vitor@gmail.com",
+    "senha": "123"
+  }
+}
